@@ -95,7 +95,7 @@ let b:match_words = '%do\>\|%proc\(edure\)\=\>:%end\>,' .
 
 " You must have VARTABS.VIM installed to use this - or comment this line out
 " You get it by http://www.vim.org/scripts/script.php?script_id=785
-call VarTab_SetStops("4,6,8,10,12,14,16,18,20,73")
+" call VarTab_SetStops("4,6,8,10,12,14,16,18,20,73")
 
 " :DoMatchParen
 
